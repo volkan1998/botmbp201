@@ -1,0 +1,33 @@
+[
+  {
+    "no": "1",
+    "dili":"PHP",
+    "soru":"Deðiþken nasýl tanýmlanýr?",
+    "cevap":"Deðiþkenin baþýna $ iþaretikonularak tanýmlanýr."
+    
+  },
+   {
+    "no": "2",
+    "dili":"PHP",
+    "soru":"Dizgelerin birleþtirilmesi nasýl gerçekleþtirilir?",
+    "cevap":"Dizgeler '.' iþleci ile birleþtirilir."
+    
+  },
+   {
+    "no": "3",
+    "dili":"C",
+    "soru":"Ekrandan kullanýcý girdisi hangi ifade ile alýnýr?",
+    "cevap":"Kullanýcý girdisi 'scanf' ifadesi ile alýnýr."
+    
+  },
+  
+   {
+    "no": "4",
+    "dili":"C",
+    "soru":"Fonksiyonda 'return' ne anlama gelmektedir?",
+    "cevap":"Fonksiyonun dönüþ deðeri içerdiði anlama gelmektedir."
+    
+  }
+  
+  
+  ]
